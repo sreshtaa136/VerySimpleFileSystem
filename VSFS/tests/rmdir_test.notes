@@ -1,0 +1,9 @@
+NOTES V1.0
+=dir1/
+=dir1/dir2/
+=dir2/
+=dir3/
+=dir1/dir2/dir3/
+@dir1/note1
+ Bob: “Looks like you’ve been missing a lot of work lately.”
+ Peter: “I wouldn’t say I’ve been missing it, Bob.”
